@@ -7,6 +7,7 @@ Budget Tracker is an app that allows you to track you spending and your earning 
 ## Preview
 
 The following image shows the web application's appearance and functionality:
+<img width="886" alt="Screen Shot 2021-11-09 at 10 22 03 PM" src="https://user-images.githubusercontent.com/84481118/141044519-89bc013c-afc9-42ca-9738-74048344a372.png">
 
 ### Deployment to Heroku Using MongoDB Atlas
 
